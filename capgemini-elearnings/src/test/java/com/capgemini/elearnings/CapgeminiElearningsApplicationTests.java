@@ -1,10 +1,10 @@
-package com.balramc.limit;
+package com.capgemini.elearnings;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringCloudConfigServerApplicationTests {
+class CapgeminiElearningsApplicationTests {
 
 	@Test
 	void contextLoads() {
